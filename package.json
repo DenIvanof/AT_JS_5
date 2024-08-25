@@ -7,7 +7,7 @@
     "test": "jest",
     "cucumber": "cucumber-js"
   },
-  "author": "",
+  "author": "Denis Ivanov",
   "license": "ISC",
   "dependencies": {
     "jest": "^27.3.1",
